@@ -1,0 +1,21 @@
+To Do:
+Make a selctor image for dice block.
+Test dice block.
+Make a button to change entire screen to one block (may be laggy)
+
+
+Ideas:
+Zombie? (Few alpha zombie start) infects alive block to make beta zombies, if all alpha zombies die all zombies die
+we should scrap the zombie idea, i think we have enough content as is
+
+Virus (If in contact with alive spread virus) turns alive block dead in (some amount) of turns (yellowish heart)
+Healer (Removes virus from alive block if in contact, also turns zombie to dead block) (does not die) moves randomly 1 block if not healing
+Menu for ruleset?(see lower ruleset possiblities)
+
+Rulesets:
+Change screen size
+Change amount of life block needed for new life block (max and min)
+Change background color?
+
+Notes:
+Creating another fork to combine it with tutorial new name will be TutorialAndGame
